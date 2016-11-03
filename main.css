@@ -1,0 +1,1015 @@
+/*
+ * Dit is de custom style sheet van jouw website
+ *
+ */
+
+@media only screen and (max-width: 350px) {
+	body {
+		background: url(../image/60407.jpg) no-repeat fixed;
+		width: 350px;
+		font-family: sans-serif;
+
+	}
+
+	#sec{
+		display: none;
+	}
+	#ash1{
+		display: none;
+	}
+
+	#m1 {
+		display: none;
+	}
+
+	#m2 {
+
+		width: 320px;
+		margin-top: -10px;
+		background-color: yellow;
+		text-align: center;
+		list-style: none;
+	}
+
+	#m2 a {
+		margin-left: -40px;
+		text-decoration: none;
+		color: black;
+		font-size: 20px;
+	}
+
+	#wrapper {
+		width: 350px;
+		margin-left: -10px;
+		margin-top: -22px;
+		height: 200px;
+		/*background: url(../image/60407.jpg) ;*/
+		background-repeat: no-repeat;
+
+	}
+
+	.desc {
+
+		background-color: #fff;
+		border: 1px solid #000;
+		position: absolute;
+		margin-left: 100px;
+		margin-top: -20px;
+		width: 200px;
+
+	}
+
+	footer {
+		text-align: center;
+		background-color: black;
+		color: Yellow;
+		height: 340px;
+		width: 355px;
+		margin: 0 auto;
+		float: right;
+		margin-right:-7px ;
+	}
+
+	header {
+
+		background-color: black;
+		height: 100px;
+		width: 480px;
+		margin: 0 auto;
+
+	}
+
+	header #logo img {
+		width: 50px;
+		height: 50px;
+		margin-bottom: -20px;
+
+	}
+
+	header ul li {
+		background-color: yellow;
+		color: black;
+		list-style: none;
+		font-size: 20px;
+		padding: 5px;
+		width: 150px;
+		text-align: center;
+
+	}
+
+	header ul li a {
+		text-decoration: none;
+		color: black;
+	}
+
+	header ul li a:hover {
+		color: grey;
+
+	}
+
+	header ul {
+
+	}
+
+	header #logo h2 {
+		color: yellow;
+		text-align: center;
+
+	}
+
+	#liebe {
+		display: none;
+	}
+
+	#logo {
+		float: left;
+		padding: 10px;
+	}
+
+	/*#buttons{*/
+	/*margin-left: 200px;*/
+	/*}*/
+	/*#search {*/
+		/*width: 290px;*/
+		/*margin-top: 10px;*/
+	/*}*/
+
+	/*#search2 {*/
+		/*width: 30px;*/
+		/*color: yellow;*/
+		/*background-color: yellow;*/
+		/*border-color: black;*/
+	/*}*/
+
+	#loglink {
+		font-size: 30px;
+		color: yellow;
+		float: right;
+		margin-top: -150px;
+		padding: 15px;,
+	}
+
+	#menut {
+
+		padding: 10px;
+		color: yellow;
+		font-size: 20px;
+	}
+
+	/*aside{*/
+	/*background-color: yellow;*/
+	/*width: 320px;*/
+	/*height: 700px;*/
+	/*float: right;*/
+	/*}*/
+	section img {
+		width: 200px;
+		height: 75px;
+	}
+
+	#imgabout {
+		margin-top: 50px;
+		width: 250px;
+		height: 400px;
+		float: left;
+		margin-left: 20px;
+	}
+
+	#subkop {
+		margin-top: 25px;
+		width: 200px;
+		/*float: left;*/
+		text-align: left;
+		/*margin-left: 20px;*/
+
+	}
+
+	#f1 {
+		width: 320px;
+		float: left;
+	}
+
+	#f2 {
+		width: 320px;
+		float: left;
+	}
+
+	#f3 {
+		width: 320px;
+		float: left;
+	}
+
+	.fimg {
+		width: 40px;
+		height: 40px;
+	}
+
+	#f2 a {
+		color: yellow;
+		text-decoration: none;
+	}
+
+	#f1 h1 {
+		margin-left: 7px;
+	}
+
+	#kop {
+		width: 300px;
+		/*height: 500px;*/
+		background-color: yellow;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	#kop20 {
+		width: 300px;
+		/*height: 500px;*/
+		background-color: yellow;
+		text-align: center;
+		/*margin-left: 90px;*/
+		margin-top: 20px;
+		margin: 0 auto;
+	}
+	#kop20 h1{
+		margin-left: 30px;
+	}
+	#kop20 h4{
+		margin-left: 30px;
+	}
+
+
+	#kop21 {
+
+		width: 300px;
+		/*height: 500px;*/
+		background-color: yellow;
+		margin-left: 20px;
+		margin-top: 20px;
+	}
+
+	#contact1 {
+		margin-left: 20px;
+		float: left;
+		background-color: yellow;
+		padding: 10px;
+		text-align: center;
+		margin-bottom: 10px;
+	}
+
+	#contactimg {
+		/*float: left;*/
+		/*width: 370px;*/
+		/*padding: 20px;*/
+		display: none;
+	}
+
+	#kop2 {
+		width: 280px;
+		margin: 0 auto;
+	}
+
+	#kop3 {
+		width: 180px;
+		margin-left: 30px;
+
+	}
+
+	#li {
+		list-style: none;
+
+	}
+
+	.li a {
+		font-size: 30px;
+		color: yellow;
+		text-decoration: none;
+		text-shadow: 2px 2px black;
+		float: left;
+		padding: 10px;
+
+	}
+
+	#ul1 {
+		width: 320px;
+	margin: 0 auto;
+		margin-left:35px;
+	}
+
+	.h1 {
+		color: yellow;
+		font-size: 30px;
+		text-align: center;
+	}
+
+	#smurf a {
+		color: black;
+		margin-left: 20px;
+
+	}
+	#pli{
+		width: 100%;
+		list-style: none;
+		float: left;
+		margin-left: -30px;
+	}
+	table {
+		margin-left:10px;
+		width:300px;
+		float: left;
+		border-collapse: collapse;
+		background-color: yellow;
+		color: black;
+		opacity: 0.8;
+		margin-bottom: 10px;
+	}
+
+	table, td, th {
+		border: 3px solid black;
+		padding: 5px;
+	}
+
+	th {text-align: left;}
+	#teveel{
+		width: 100px;
+	}
+
+	#search{
+		color: yellow;
+		text-align: center;
+	}
+}
+@media only screen and (min-width: 351px) and (max-width:1200px){
+	body {
+	background: url(../image/back.png) no-repeat fixed;
+	width: 800px;
+	font-family: sans-serif;
+
+}
+	#schema{
+		width: 400px;
+		margin-left: 30px;
+	}
+	.schema{
+		width: 200px;
+		height: 10px;
+	}
+
+#m2{display: none};
+#bug{
+width:800px;
+margin: 0 auto;
+}
+#wrapper {
+width:800px;
+margin: 0 auto;
+margin-top: -22px;
+height: 900px;
+background: url(../image/60407.jpg);
+background-repeat: no-repeat;
+
+}
+
+.desc {
+
+background-color: #fff;
+border: 1px solid #000;
+position: absolute;
+margin-left: 100px;
+margin-top: -20px;
+width: 200px;
+
+}
+
+footer {
+background-color: black;
+color: Yellow;
+height: 150px;
+width: 800px;
+margin: 0 auto;
+float: right;
+
+}
+
+header {
+
+background-color: black;
+height: 200px;
+width: 800px;
+margin: 0 auto;
+
+}
+
+header #logo img {
+width: 150px;
+height: 150px;
+margin-bottom: -20px;
+
+}
+
+header ul li {
+float: left;
+background-color: yellow;
+color: black;
+list-style: none;
+font-size: 30px;
+padding: 5px;
+width: 112px;
+text-align: center;
+
+}
+
+header ul li a {
+text-decoration: none;
+color: black;
+}
+
+header ul li a:hover {
+color: grey;
+
+}
+
+header ul {
+margin-top: 106px;
+margin-left: -50px;
+}
+
+header #logo h2 {
+color: yellow;
+text-align: center;
+
+}
+
+#logo {
+float: left;
+padding-left: 10px;
+padding-top: 10px;
+}
+
+#buttons {
+
+margin-left: 200px;
+
+}
+
+	/*#search {*/
+	/*margin-top: 45px;*/
+	/*margin-left: 40px;*/
+	/*width: 570px;*/
+	/*}*/
+
+	/*#search2 {*/
+	/*background-color: yellow;*/
+	/*color: black;*/
+
+	/*}*/
+
+#loglink {
+font-size: 30px;
+color: yellow;
+float: right;
+margin-top: -150px;
+padding: 15px;,
+}
+
+#menut {
+color: yellow;
+padding-top: 10px;;
+}
+
+aside {
+margin-top: -28px;
+background-color: yellow;
+width: 250px;
+height: 700px;
+float: right;
+}
+
+section img {
+width: 300px;
+height: 170px;
+}
+
+#imgabout {
+margin-top: 50px;
+width: 125px;
+height: 200px;
+float: left;
+margin-left: 20px;
+}
+
+#subkop {
+margin-top: 25px;
+width: 200px;
+float: left;
+text-align: left;
+margin-left: 20px;
+
+}
+
+#f1 {
+width: 180px;
+float: left;
+}
+
+#f2 {
+width: 100px;
+float: left;
+}
+
+#f3 {
+width: 400px;
+float: left;
+}
+
+.fimg {
+width: 40px;
+height: 40px;
+}
+
+#f2 a {
+color: yellow;
+text-decoration: none;
+}
+
+#f1 h1 {
+margin-left: 7px;
+}
+
+#kop {
+width: 400px;
+height: 500px;
+background-color: yellow;
+text-align: center;
+margin-left: 90px;
+}
+#kop69 {
+width: 240px;
+
+background-color: yellow;
+text-align: center;
+margin-left: 10px;
+}
+#kop69 img{
+width: 200px;
+height: 120px;
+border: 1px solid black;
+}
+
+#kop20 {
+width: 400px;
+height: 500px;
+background-color: yellow;
+text-align: center;
+margin-left: 90px;
+margin-top: 20px;
+}
+
+#kop21 {
+
+width: 400px;
+height: 500px;
+background-color: yellow;
+margin-left: 90px;
+margin-top: 20px;
+}
+
+#contact1 {
+margin-left: 20px;
+float: left;
+}
+
+#contactimg {
+float: left;
+width: 200px;
+padding: 20px;
+}
+
+#kop2 {
+width: 300px;
+margin: 0 auto;
+}
+
+#kop3 {
+width: 200px;
+
+}
+video{
+	width: 200px;
+	margin-top: -20px;
+}
+
+#li {
+list-style: none;
+
+
+}
+#pli {
+list-style: none;
+margin-left: 90px;
+
+}
+
+.li a {
+font-size: 25px;
+color: yellow;
+text-decoration: none;
+text-shadow: 2px 2px black;
+float: left;
+padding: 10px;
+
+}
+
+#ul1 {
+width: 800px;
+
+}
+#ul1 {
+width: 300px;
+margin-left: 140px;
+}
+
+.h1 {
+color: yellow;
+font-size: 40px;
+margin-left: 90px;
+}
+
+#smurf a {
+color: black;
+margin-left: 20;
+}
+
+table {
+width: width:40%;
+float: left;
+border-collapse: collapse;
+background-color: yellow;
+color: black;
+opacity: 0.8;
+	margin-left: -80px;
+}
+
+table, td, th {
+border: 3px solid black;
+padding: 5px;
+}
+
+th {text-align: left;}
+#teveel{
+width: 150px;
+}
+#search{
+margin-left: 90px;
+
+margin: 0 auto;
+color: yellow;
+}
+#search2{
+margin-left: 90px;
+
+}
+#txtHint{
+margin-left: 90px;
+}
+#kopaside{
+width:200px;
+margin-left: 8px;
+}
+#ash1{
+text-align: center;
+}
+
+}
+@media only screen and (min-width: 1201px) {
+	body {
+		background: url(../image/back.png) no-repeat fixed;
+		width: 100%;
+		font-family: sans-serif;
+
+	}
+	#schema{
+		height: 400px;
+		margin-left: 90px;
+	}
+	.schema{
+		height: 2px;
+	}
+	#m2{display: none};
+	#bug{
+		width: 1200px;
+		margin: 0 auto;
+	}
+	#wrapper {
+		width: 1200px;
+		margin: 0 auto;
+		margin-top: -22px;
+		height: 900px;
+		background: url(../image/60407.jpg);
+		background-repeat: no-repeat;
+
+	}
+
+	.desc {
+
+		background-color: #fff;
+		border: 1px solid #000;
+		position: absolute;
+		margin-left: 100px;
+		margin-top: -20px;
+		width: 200px;
+
+	}
+
+	footer {
+		background-color: black;
+		color: Yellow;
+		height: 130px;
+		width: 1200px;
+		margin: 0 auto;
+		float: right;
+
+	}
+
+	header {
+
+		background-color: black;
+		height: 200px;
+		width: 1200px;
+		margin: 0 auto;
+
+	}
+
+	header #logo img {
+		width: 150px;
+		height: 150px;
+		margin-bottom: -20px;
+
+	}
+
+	header ul li {
+		float: left;
+		background-color: yellow;
+		color: black;
+		list-style: none;
+		font-size: 30px;
+		padding: 5px;
+		width: 128px;
+		text-align: center;
+
+	}
+
+	header ul li a {
+		text-decoration: none;
+		color: black;
+	}
+
+	header ul li a:hover {
+		color: grey;
+
+	}
+
+	header ul {
+	margin-top: 106px;
+		margin-left: -50px;
+	}
+
+	header #logo h2 {
+		color: yellow;
+		text-align: center;
+
+	}
+
+	#logo {
+		float: left;
+		padding-left: 10px;
+		padding-top: 10px;
+	}
+
+	#buttons {
+
+		margin-left: 200px;
+
+	}
+
+	/*#search {*/
+		/*margin-top: 45px;*/
+		/*margin-left: 40px;*/
+		/*width: 570px;*/
+	/*}*/
+
+	/*#search2 {*/
+		/*background-color: yellow;*/
+		/*color: black;*/
+
+	/*}*/
+
+	#loglink {
+		font-size: 30px;
+		color: yellow;
+		float: right;
+		margin-top: -150px;
+		padding: 15px;,
+	}
+
+	#menut {
+		color: yellow;
+		padding-top: 10px;;
+	}
+
+	aside {
+		margin-top: -28px;
+		background-color: yellow;
+		width: 320px;
+		height: 700px;
+		float: right;
+	}
+
+	section img {
+		width: 500px;
+		height: 300px;
+	}
+
+	#imgabout {
+		margin-top: 50px;
+		width: 250px;
+		height: 400px;
+		float: left;
+		margin-left: 20px;
+	}
+
+	#subkop {
+		margin-top: 25px;
+		width: 300px;
+		float: left;
+		text-align: left;
+		margin-left: 20px;
+
+	}
+
+	#f1 {
+		width: 180px;
+		float: left;
+	}
+
+	#f2 {
+		width: 360px;
+		float: left;
+	}
+
+	#f3 {
+		width: 660px;
+		float: left;
+	}
+
+	.fimg {
+		width: 40px;
+		height: 40px;
+	}
+
+	#f2 a {
+		color: yellow;
+		text-decoration: none;
+	}
+
+	#f1 h1 {
+		margin-left: 7px;
+	}
+
+	#kop {
+		width: 700px;
+		height: 500px;
+		background-color: yellow;
+		text-align: center;
+		margin-left: 90px;
+	}
+	#kop69 {
+		width: 300px;
+
+		background-color: yellow;
+		text-align: center;
+		margin-left: 10px;
+	}
+	#kop69 img{
+		width: 280px;
+		height: 150px;
+		border: 1px solid black;
+	}
+
+	#kop20 {
+		width: 700px;
+		height: 500px;
+		background-color: yellow;
+		text-align: center;
+		margin-left: 90px;
+		margin-top: 20px;
+	}
+
+	#kop21 {
+
+		width: 700px;
+		height: 500px;
+		background-color: yellow;
+		margin-left: 90px;
+		margin-top: 20px;
+	}
+
+	#contact1 {
+		margin-left: 20px;
+		float: left;
+	}
+
+	#contactimg {
+		float: left;
+		width: 370px;
+		padding: 20px;
+	}
+
+	#kop2 {
+		width: 500px;
+		margin: 0 auto;
+	}
+
+	#kop3 {
+		width: 400px;
+
+	}
+
+	#li {
+		list-style: none;
+
+	}
+	#pli {
+		list-style: none;
+		margin-left: 90px;
+
+	}
+
+	.li a {
+		font-size: 50px;
+		color: yellow;
+		text-decoration: none;
+		text-shadow: 2px 2px black;
+		float: left;
+		padding: 10px;
+
+	}
+
+	#ul1 {
+		width: 800px;
+
+	}
+	#ul1 {
+		width: 300px;
+		margin-left: 300px;
+	}
+
+	.h1 {
+		color: yellow;
+		font-size: 40px;
+		margin-left: 90px;
+	}
+
+	#smurf a {
+		color: black;
+		margin-left: 20;
+	}
+
+ table {
+	 width: width:60%;
+	 float: left;
+	 border-collapse: collapse;
+	 background-color: yellow;
+	 color: black;
+	 opacity: 0.8;
+ }
+
+	table, td, th {
+		border: 3px solid black;
+		padding: 5px;
+	}
+
+	th {text-align: left;}
+	#teveel{
+		width: 300px;
+	}
+	#search{
+		margin-left: 90px;
+
+		margin: 0 auto;
+		color: yellow;
+	}
+	#search2{
+		margin-left: 90px;
+
+	}
+	#txtHint{
+		margin-left: 90px;
+	}
+	#kopaside{
+		width:280px;
+		margin-left: 8px;
+	}
+	#ash1{
+		text-align: center;
+	}
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Eerste item</title>
+        <link>http://19940.hosts.ma-cloud.nl/myband/band/</link>
+        <description>Auto </description>
+
+        <item>
+            <title>Gunz 4 hire</title>
+            <link>http://19940.hosts.ma-cloud.nl/myband/band/</link>
+            <description>Muziek producenten</description>
+
+        </item>
+        <item>
+            <title>Intents</title>
+            <link>http://19940.hosts.ma-cloud.nl/myband/band/</link>
+            <description>Festival</description>
+        </item>
+        <item>
+            <title>Hond</title>
+            <link>http://19940.hosts.ma-cloud.nl/myband/band/</link>
+            <description>Liefe Hond</description>
+        </item>
+    </channel>
+</rss>
